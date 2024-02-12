@@ -11,6 +11,9 @@
         "trunc",
         "unfor"
     ],
-    "ignoreWords": [],
+    "ignoreWords": [
+        "DOCKERHUB",
+        "Dockerhub"
+    ],
     "import": []
 }
